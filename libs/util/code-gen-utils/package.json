@@ -2,7 +2,7 @@
   "name": "@amplication/code-gen-utils",
   "version": "0.0.7",
   "dependencies": {
-    "@babel/parser": "7.25.7",
+    "@babel/parser": "7.28.0",
     "@babel/types": "7.25.7",
     "ast-types": "^0.14.2",
     "lodash": "^4.17.21",
